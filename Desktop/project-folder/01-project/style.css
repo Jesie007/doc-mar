@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+nav {
+  background-image: url(pattern\ 1.jpeg);
+  height: 120px;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  color: rgb(237, 237, 119);
+  margin: 0 auto;
+}
+
+.brush {
+  font-size: 30px;
+  background-color: aquamarine;
+  color: white;
+}
+
+figure {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+figcaption {
+  font-weight: bold;
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+p {
+  font-size: 18px;
+}
+
+strong {
+  color: blue;
+}
+
+.frame {
+  font-size: 30px;
+  background-color: palevioletred;
+  color: white;
+}
+
+.paint {
+  font-size: 30px;
+  background-color: lightskyblue;
+  color: white;
+}
